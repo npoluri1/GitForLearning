@@ -1,8 +1,9 @@
 ## Testers
 1.Execute smoke test on premise and cloud deployment
-
+2.Execute Selenium Automated Testes
+3.Add them to CI
 ##DevOps 
 1.Build this code base from jenkins
 2.deploy the code to tomcat server 
 3.use configuration mangament tool for achiving this
-4.Create a Docker file this app
+
